@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+ background-color: black;
+}
+
+.time{
+  font-size: 50px;
+  text-align: center;
+  transform: translateX(450px);
+
+}
+
+.tou{
+  text-align: center;
+  background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+  height: 1000px;
+}
+
+.hello{
+  transform: translateX(450px);
+  margin-top: 20px;
+
+}
+
+.timer {
+  background-color: rgb(99, 85, 85);
+  color: white;
+  margin-bottom: 100px;
+}
